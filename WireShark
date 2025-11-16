@@ -6,5 +6,13 @@ Follow TCP Stream
 Thêm xóa cột
 Display Time Format
 Expert Information
+
 Tồng quan về file dumpt
-các dịch vụ phổ biến: http,ftp,smtp,dns
+các dịch vụ phổ biến: http,ftp,smtp,dns, graph flow
+
+Filtering nâng cao:
+Capture Filters - Display Filters
+Capture Filter Syntax
+Display Filter Syntax:
+    Protocol, IP, Port, Application
+    Contains, matches, in, upper,lower, string
